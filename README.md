@@ -1,9 +1,6 @@
 # MX Master Reconnect 🖱️
-
-A C# terminal application that automatically fixes Logitech MX Master mouse Bluetooth connection issues on Windows 11 restarts.
-
-## The Problem
-MX Master mice often fail to reconnect after Windows 11 restarts due to Bluetooth adapter compatibility issues.
+I noticed that my MX Master mouse often fail to reconnect to Bluetooth after Windows 11 restarts.
+This script automatically removes and re-pairs the mouse at startup.
 
 ## The Solution
 This application automatically restarts the Bluetooth service at startup, which forces your MX Master to reconnect properly.
