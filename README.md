@@ -1,4 +1,4 @@
-# Logitech MX Master Blurtooth mouse Reconnect 🖱️
+# Logitech MX Master Bluetooth mouse Reconnect on Windows 11 🖱️
 I noticed that my MX Master mouse often fails to reconnect to Bluetooth after Windows 11 restarts.
 This script simply opens the Windows Bluetooth menu on startup, so you can use your keyboard to remove and re-add (repair) your mouse.
 
