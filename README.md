@@ -19,5 +19,3 @@ At startup, the script opens the Windows Bluetooth settings. To repair your mous
 1. Use your keyboard to select and remove the MX Master mouse from the Bluetooth device list if it appears.
 2. Put your mouse in pairing mode (press the pair button).
 3. Use your keyboard (Tab/Arrow/Enter keys) to add a new Bluetooth device and select the MX Master mouse to pair.
-
-This process helps resolve issues where the mouse fails to reconnect after a restart.
